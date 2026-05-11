@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Hi,+I'm+Adrian;Linux+Enthusiast+%7C+Open-Source+Builder;Cross-Distro+Tools+%7C+Custom+Desktop+Workflows" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Adrian;Linux+Enthusiast+%7C+Open-Source+Builder;Cross-Distro+Tools+%7C+Custom+Desktop+Workflows" alt="Typing Animation" />
 </div>
 
 <br/>
