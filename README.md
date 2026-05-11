@@ -29,7 +29,6 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**ALPS**](https://github.com/adrianpriza-ai/alps) | Advanced Linux Package System — one CLI for every distro (apt, dnf, pacman) + AUR, Flatpak & Snap support | `Go` `Shell` `Makefile` |
-| [**ALPS‑More**](https://github.com/adrianpriza-ai/alps-more) | Cross‑distro script repo for tools not in standard package managers | `Shell` `Custom DSL` |
 | [**my‑wayfire‑config**](https://github.com/adrianpriza-ai/my-wayfire-config) | Personal Wayfire dotfiles — lightweight, low‑end friendly Arch desktop with eww widgets & rofi launcher | `Shell` `Wayfire` `Rofi` |
 | [**ani‑gui**](https://github.com/adrianpriza-ai/ani-gui) | Anime streaming desktop app with robust web scraping & MPV integration | `Python` `HTML` `MPV` |
 
