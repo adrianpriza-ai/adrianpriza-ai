@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Adrian;Linux+Enthusiast+%7C+Open-Source+Builder;Cross-Distro+Tools+%7C+Custom+Desktop+Workflows" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Adrian;Linux+enthusiast+%7C+still+learning+every+day;Tinkering+with+cross-distro+tools+%7C+Exploring+custom+workflows" alt="Typing Animation" />
 </div>
 
 <br/>
@@ -14,11 +14,11 @@
 
 ## About Me
 
-- I’m currently mastering Linux — from kernel tweaks to custom Wayfire workflows
-- Building cross‑distribution tools that work seamlessly across `apt`, `dnf`, and `pacman`
-- Focused on the intersection of developer tooling and thoughtful UI/UX
-- Active in the Arch Linux community, maintaining AUR packages and custom desktop scripts
-- I turned my Arch setup into a public dotfiles repo so others can replicate my workflow
+- I spend a lot of time in Linux — mostly trying to understand it better, not claiming to be an expert
+- I like experimenting with scripts and small tools that (sometimes) work across different distributions
+- I enjoy playing with desktop environments and tweaking configs, even though I still have a lot to learn
+- Occasionally I share some Arch‑related configs and packages, hoping they might help someone else
+- I’m always surprised when something actually works, and I document it just in case
 
 <br/>
 
@@ -28,9 +28,10 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**ALPS**](https://github.com/adrianpriza-ai/alps) | Advanced Linux Package System — one CLI for every distro (apt, dnf, pacman) + AUR, Flatpak & Snap support | `Go` `Shell` `Makefile` |
-| [**my‑wayfire‑config**](https://github.com/adrianpriza-ai/my-wayfire-config) | Personal Wayfire dotfiles — lightweight, low‑end friendly Arch desktop with eww widgets & rofi launcher | `Shell` `Wayfire` `Rofi` |
-| [**ani‑gui**](https://github.com/adrianpriza-ai/ani-gui) | Anime streaming desktop app with robust web scraping & MPV integration | `Python` `HTML` `MPV` |
+| [**ALPS**](https://github.com/adrianpriza-ai/alps) | An attempt at a unified package manager CLI that works on multiple distros — very much a work in progress | `Go` `Shell` `Makefile` |
+| [**ALPS‑More**](https://github.com/adrianpriza-ai/alps-more) | A collection of scripts for tools I couldn’t find in official repos — rough around the edges | `Shell` `Custom DSL` |
+| [**my‑wayfire‑config**](https://github.com/adrianpriza-ai/my-wayfire-config) | My personal Wayfire dotfiles, shared so others can pick them apart or adapt them | `Shell` `Wayfire` `Rofi` |
+| [**ani‑gui**](https://github.com/adrianpriza-ai/ani-gui) | A small desktop app for streaming anime — built mostly for learning, not polished yet | `Python` `HTML` `MPV` |
 
 </div>
 
