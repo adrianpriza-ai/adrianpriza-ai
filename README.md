@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Adrian;Linux+enthusiast+%7C+still+learning+every+day;Tinkering+with+cross-distro+tools+%7C+Exploring+custom+workflows" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1400&lines=Hi,+I'm+Adrian;Linux+enthusiast+%7C+still+learning+every+day;Tinkering+with+cross-distro+tools+%7C+Exploring+custom+workflows" alt="Typing Animation" />
 </div>
 
 ---
