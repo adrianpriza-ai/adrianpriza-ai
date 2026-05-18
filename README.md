@@ -12,11 +12,10 @@
 
 ## About Me
 
-- I spend a lot of time in Linux — mostly trying to understand it better, not claiming to be an expert
+- I spend a lot of time in Linux — mostly trying to understand it better
 - I like experimenting with scripts and small tools that (sometimes) work across different distributions
 - I enjoy playing with desktop environments and tweaking configs, even though I still have a lot to learn
 - Occasionally I share some Arch‑related configs and packages, hoping they might help someone else
-- I’m always surprised when something actually works, and I document it just in case
 
 <br/>
 
